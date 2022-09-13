@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kelly Putnam</h1>
 <h3 align="center">A junior CS major and French/Math minor at Colby College!</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: @kdputn24@colby.edu</h3>
 <p align="left">
 </p>
 
